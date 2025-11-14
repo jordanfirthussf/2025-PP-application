@@ -1,0 +1,3610 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="2023-11%20SURF_files/filelist.xml">
+<title> SURF </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Firth, Jordan A Lt Col USAF USAFA DF/DFAS</o:Author>
+  <o:LastAuthor>Firth, Jordan A Lt Col USAF USAFA DF/DFAS</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2023-12-04T11:35:00Z</o:Created>
+  <o:LastSaved>2023-12-04T11:35:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>862</o:Words>
+  <o:Characters>5472</o:Characters>
+  <o:Company>USAFA 10CS</o:Company>
+  <o:Lines>45</o:Lines>
+  <o:Paragraphs>12</o:Paragraphs>
+  <o:CharactersWithSpaces>6322</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="2023-11%20SURF_files/themedata.thmx">
+<link rel=colorSchemeMapping href="2023-11%20SURF_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>120</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="375">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.z-TopofFormChar
+	{mso-style-name:"z-Top of Form Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"z-Top of Form";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Arial",sans-serif;
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	display:none;
+	mso-hide:all;}
+span.z-BottomofFormChar
+	{mso-style-name:"z-Bottom of Form Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"z-Bottom of Form";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Arial",sans-serif;
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	display:none;
+	mso-hide:all;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0
+ style='mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=lblHead>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Printed By FIRTH JORDAN A on 16-Nov-2023 at 05:31:43<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>Personal
+    Data - Privacy Act of 1974 (5 USC 552a)</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>Current
+    as of 14-Nov-2023 at 05:31:43<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+    <td colspan=3 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>FOR OFFICIAL USE ONLY<o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=3 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Name:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> LTC FIRTH JORDAN A<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SSAN:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 3834<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Phone:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 7042198918<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Projected Grade:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DAFSC:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> T62E3G<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Functional Cat:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> PERMANENT PARTY<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Duty Title:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> ASSISTANT PROFESSOR OF ASTRO<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Spouse SSAN:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DOR:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 01-Sep-2021<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Base:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> USAF ACADEMY<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PSN:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 0B0015958<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Command:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> US AFA<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Record Status:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 10<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PAS:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> US0BF4FW<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Depndnts:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 05<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Sex/Race/Ethnic:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> M/WHI/NOT HISPANIC OR LATINO<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Office Sym:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> DFAS<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label1></span></td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label2>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=4 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****RESTRICTIONS*****</span></b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Asg Avl Code/Date:</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'>50/202607 &nbsp;&nbsp; /.
+    . <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DDA AFSC/RSN/Date:</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'> / /. .<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PP/DP:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 0/ <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>P-PAS:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Asg Lim Code/Date:</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'> /. <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LPTI/Doc:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> / <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Weight Cont:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>P-Base:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>BTZ:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>UIF:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RNLTD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ASD:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>1st Asgn:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AAN:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;
+  mso-fareast-font-family:"Times New Roman";display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=6 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****DUTY
+    STATUS*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td width="10%" nowrap style='width:10.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Duty Status: </span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td width="56%" nowrap style='width:56.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>00-PRESENT FOR DUTY<o:p></o:p></span></p>
+    </td>
+    <td width="7%" nowrap style='width:7.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Start Date:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td width="10%" nowrap style='width:10.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>08 May 2022<o:p></o:p></span></p>
+    </td>
+    <td width="7%" nowrap style='width:7.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>End Date:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td width="10%" nowrap style='width:10.0%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Proj Duty Status: </span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>NO PROJECTED DUTY STATUS<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Start Date:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>End Date:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  <span style='font-size:8.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA'></span></span></td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label3>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=4 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****SERVICE
+    DATES*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='background:white;padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=5 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****AFIT
+    INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DAS:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 28-Jul-2022<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ADSCD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 15-Aug-2024<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Reason:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 78<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>TAFCSD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>31-May-2006<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>GPA:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>EDLVLSEL:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>L1:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>L2:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>L3:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEROS:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DDLDS:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 24-Jul-2022<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DOS:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 31-May-2034<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PAY:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>31-May-2006<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Status:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFIT SP:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> ///<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ODSD:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 31-May-2006<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>EAD:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 19-Jul-2021<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>TFCSD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 31-May-2006<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>TYSD/PLSD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>FY-IND:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ELIG-INEL Stat:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>STRD(#):</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> 31-May-2006 (.)<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>TAFMSD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>31-May-2006<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RSSP:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RegAF Date:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Prior-Mo:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Entry-DT Stat:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RET/SEP:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>1405 Date:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  <span style='font-size:8.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA'></span></span></td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label4>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=3 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****PME
+    INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='background:white;padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=4 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****PROJECTED
+    TRAINING*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='background:white;padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****OTHER
+    INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>IDE - AIR COMMAND AND STAFF COLLEGE (ACSC)<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>NON-RES<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>2017<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td colspan=4 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Course Num/ST/GD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> / / <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Citizen:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>BY NATURALIZATION<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PDE - SQUADRON OFFICER SCHOOL (SOS) <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RES/NON-RES <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>2012<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td colspan=4 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Course Num/ST/GD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> //<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DOB:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>14-Sep-1983<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>BDE - AIR AND SPACE BASIC COURSE (ASBC)<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RESIDENCE<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>2006<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td colspan=4 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Course Num/ST/GD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> //<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Comm Src:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>U.S.A.F. ACADEMY<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Non-CONUS Res:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+    <td colspan=4 style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SpecSel:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SP1:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SP2:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SP3:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  <span style='font-size:8.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA'></span></span></td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label5>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****ACQUISITION
+    INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap colspan=2 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****LANGUAGE
+    INFO*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td width="12%" nowrap style='width:12.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Crit Acq Billet:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> NO<o:p></o:p></span></p>
+    </td>
+    <td valign=top style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DLAB:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+<!--- replaced this Variables.Eval18  with SrcComm.description 6 Feb 2002 DMT--->
+   <tr style='mso-yfti-irow:2'>
+    <td width="12%" nowrap style='width:12.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>APDP-Fld &amp; Lvl:</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'> T 3/A 1/S 2/T 2/T 1<o:p></o:p></span></p>
+    </td>
+    <td width="38%" valign=top style='width:38.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LANG1:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> NONE <b>DT:</b> . <b>S-</b> <b>L-</b>
+    <b>R-</b> <o:p></o:p></span></p>
+    </td>
+    <td width="38%" valign=top style='width:38.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LANG2:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> NONE <b>DT:</b> . <b>S-</b> <b>L-</b>
+    <b>R-</b> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td width="12%" nowrap style='width:12.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Acq-Corps ID:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></p>
+    </td>
+    <td valign=top style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LANG3:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> NONE <b>DT:</b> . <b>S-</b> <b>L-</b>
+    <b>R-</b> <o:p></o:p></span></p>
+    </td>
+    <td valign=top style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LANG4:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> NONE <b>DT:</b> . <b>S-</b> <b>L-</b>
+    <b>R-</b> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td width="12%" nowrap style='width:12.0%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Acq-Posn-Cat:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td valign=top style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LANG5:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> NONE <b>DT:</b> . <b>S-</b> <b>L-</b>
+    <b>R-</b> <o:p></o:p></span></p>
+    </td>
+    <td valign=top style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LANG6:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> NONE <b>DT:</b> . <b>S-</b> <b>L-</b>
+    <b>R-</b> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+    <td nowrap colspan=3 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Acq-Posn-Type:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label6>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=2 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****SECURITY
+    DATA*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='background:white;padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=3 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****AFSC
+    INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Security Clearance:</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'>SCI(DCID 1/14 ELIG)<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Clearance Date:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>18-Aug-2020<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PAFSC:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>T62E3B<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>2AFSC:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>62E3H<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Core Flag:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>62E<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Type Clearance:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PRP Stat:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SAFSC:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>3AFSC:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>62E4<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LOPD:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> / <o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label7>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=6 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****ACADEMIC
+    INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='background:white;padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****SPECIAL
+    EXPERIENCE IDs*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEGREE</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ACADEMIC SPECIALTY</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SCHOOL LOCATION</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YR</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>METHOD</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DOC <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>4EYY<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ASTRONAUTICAL ENGINEERING<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>NC ST U NC<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>2019<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>Y11/ / /
+    / / / / <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MAS <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>4EYY<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ASTRONAUTICAL ENGINEERING<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFIT WPAFB OH<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>2011<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  <span style='font-size:8.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA'></span></span></td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label8>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=7 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****RATED
+    INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Aero Rating:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Combat Hours:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Combat Support Hours:</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Fly-Act-Cat:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>API:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> 0<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SEI(1-5):</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> Y11<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>GATES:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Aircraft:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AVSD:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> .<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Primary Hrs:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RT RTD:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Inst/Eval Hrs:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> / <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFSVC CD/DT:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> /<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Years/Hours:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> ./ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>./ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>./ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>./ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>./ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>./ <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RDTM:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:6'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Total/Jet:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> / <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  <span style='font-size:8.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA'></span></span></td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label9>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=14 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****OPR
+    DATA*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='background:white;padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****O/S
+    HISTORY*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='background:white;padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=3 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****DEPLOYMENT
+    HISTORY*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap colspan=17 style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>INCLUSIVE
+    DATES</span></b><span style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>TDY
+    LOCATION</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>COMMAND
+    LVL</span></b><span style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20230630<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20220724<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20210824<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20200824<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20160324<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LTC<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MAJ<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MAJ<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MAJ<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CPT<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20150324<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20140324<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20130324<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20120324<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap colspan=2 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>20090530<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CPT<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CPT<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CPT<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CPT<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Y <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>1LT<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>YE<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
+    <td nowrap colspan=17 style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>- <o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label10>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=28 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****DECORATIONS
+    - NOTE: This screen only shows personal <u>medals</u> not awards.*****</span></b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Decoration</span></strong><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Auth No.</span></strong><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>No</span></strong><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Seq</span></strong><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Close Date</span></strong><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Approval Date</span></strong><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Approving Unit</span></strong><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><strong><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Reason</span></strong><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DMS MDL <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>. <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>01 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>L <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>01-Jul-2022 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>202207 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ACH <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MERIT SVC MEDAL <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>68413 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>01 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>L <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>25-Jul-2016 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>201609 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFPC <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PCS <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AF COMM MEDAL <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>6 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>01 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>N <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>06-May-2014 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>201404 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PCS <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AF ACHIEV MEDAL <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>15 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>01 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>O <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>07-Aug-2009 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>200908 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>46 TG <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PCS <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label11>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td colspan=11 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****DUTY
+    HISTORY*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DAFSC</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DUTY TITLE</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>OFC</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>UNIT</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ORGANIZATION</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>TYPE</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CMD</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LOCATION </span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ST/CNTY</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>EDD</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>JNT</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>T62E3G <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ASSISTANT PROFESSOR OF ASTRO <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEAN OF FACULTY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>UNIT <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ACD <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>USAF ACADEMY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CO <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>03-Aug-2022 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E4 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CHIEF, WARFARE DOMAINS BRANCH <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0VA1 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFELM DIA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEFENSE INTELLIGENCE AGENCY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ZBG <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CHARLOTTESVILLE <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>VA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>01-Dec-2020 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E4 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>OPERATIONS OFFICER <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0VA1 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFELM DIA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEFENSE INTELLIGENCE AGENCY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ZBG <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CHARLOTTESVILLE <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>VA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>15-Mar-2020 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E4 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CHF JNT CYBERSPACE INFO OPS <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0VA1 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFELM DIA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEFENSE INTELLIGENCE AGENCY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ZBG <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CHARLOTTESVILLE <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>VA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>27-Aug-2019 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:6'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E4 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CHIEF, JOINT AIR AND SPACE OPS <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0VA1 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFELM DIA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEFENSE INTELLIGENCE AGENCY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ZBG <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CHARLOTTESVILLE <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>VA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>27-Aug-2019 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:7'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-92S0 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFIT PHD STUDENT <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFST <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AF INST OF TECH <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>INSTITUTE <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AET <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RALEIGH <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>NC <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>04-Aug-2016 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:8'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>T62E3B <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ENG DIV EXEC OFFCR &amp; ASST PROF <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEAN OF FACULTY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>UNIT <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ACD <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>USAF ACADEMY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CO <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>01-May-2016 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:9'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>T62E3B <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ENGR DIV EX OFFCR/ASTRO INSTR <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEAN OF FACULTY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>UNIT <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ACD <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>USAF ACADEMY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CO <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>19-May-2015 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:10'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>T62E3B <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>INSTRUCTOR OF ASTRONAUTICS <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>DEAN OF FACULTY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>UNIT <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ACD <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>USAF ACADEMY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CO <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>06-May-2014 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:11'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E3G <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SYSTEM TEST ENGINEER <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>000B <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SPACE/MISSILE SY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CENTER <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SPC <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LOS ANGELES <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>25-Mar-2012 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:12'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E3G <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>PROJ OFFCR, ON ORBIT OPERATIONS <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>000B <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SPACE/MISSILE SY <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CENTER <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SPC <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>LOS ANGELES <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>CA <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>22-Apr-2011 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:13'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-92S0 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AFIT MASTERS STUDENT <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>RSEG <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AF INST OF TECH <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>INSTITUTE <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>AET <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>WRIGHT PATTERSON <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>OH <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>11-Aug-2009 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:14'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E3H <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>ROCKET SLED TEST ENGINEER <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0586 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>FLIGHT TEST <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SQUADRON <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MTC <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>HOLLOMAN <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>NM <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>26-Sep-2008 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:15'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>-62E1G <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>FLIGHT TEST ENGINEER <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0586 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>FLIGHT TEST <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SQUADRON <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MTC <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>HOLLOMAN <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>NM <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>06-May-2008 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:16'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>X62E1G <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>TEST ENGINEER <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0000 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>0586 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>FLIGHT TEST <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>SQUADRON <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MTC <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>HOLLOMAN <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>NM <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>27-Sep-2006 <o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:17'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:18'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:19'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:20'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:21'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:22'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:23'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:24'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:25;mso-yfti-lastrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td style='padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+  </table>
+  <span style='font-size:8.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+  mso-bidi-language:AR-SA'></span></span></td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=Label12>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td nowrap colspan=9 style='background:#FCFCFC;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>*****JOINT
+    SERVICE INFORMATION*****</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>JT-TOURS</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>START</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>STOP</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>R/C</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>MON</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>T-TYPE</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>A-STAT</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>JSO-JSONOM:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>A03506742<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>JD<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>27-Aug-2019<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>000<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>A<o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>J-FLAG:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>GO QUAL:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>OSC:</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>P-CAT-C:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>OJ(CS)<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:6'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>/ <o:p></o:p></span></p>
+    </td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>P-CAT-H:</span></b><span style='font-size:7.0pt;
+    mso-fareast-font-family:"Times New Roman"'>N/A<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'></td>
+    <td nowrap style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>P-JDA</span></b><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'> <o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr style='mso-yfti-irow:14;mso-yfti-lastrow:yes'>
+  <td style='padding:.75pt .75pt .75pt .75pt'><span id=lblFoot>
+  <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>Printed By FIRTH JORDAN A on 16-Nov-2023 at 05:31:43<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>Personal
+    Data - Privacy Act of 1974 (5 USC 552a)</span></b><span style='font-size:
+    7.0pt;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-size:7.0pt;mso-fareast-font-family:"Times New Roman"'>Current
+    as of 14-Nov-2023 at 05:31:43<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+    <td colspan=3 style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><span style='font-size:7.0pt;mso-fareast-font-family:
+    "Times New Roman"'>The information herein is For Official Use Only (FOUO)
+    which must be protected under the Freedom of Information Act of 1966 and
+    Privacy Act of 1974, as amended. Unauthorized disclosure or misuse of this
+    PERSONAL INFORMATION may result in criminal and/or civil penalties.<o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+</table>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A page can have only one server-side Form tag.</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/AMSNet40' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A page can have only one server-side Form tag.</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A page can have only one server-side Form tag.<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A page can have only one server-side Form tag.]
+   System.Web.UI.Page.OnFormRender() +9866422
+   System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer) +36
+   System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer) +32
+   System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output) +55
+   System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter) +67
+   System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter) +101
+   System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer) +43
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +129
+   System.Web.UI.Control.RenderChildren(HtmlTextWriter writer) +14
+   System.Web.UI.Page.Render(HtmlTextWriter writer) +30
+   System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter) +67
+   System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter) +101
+   System.Web.UI.Control.RenderControl(HtmlTextWriter writer) +27
+   System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) +1342
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.4676.0
+
+            </font>
+
+    </body><!-- 
+[HttpException]: A page can have only one server-side Form tag.
+   at System.Web.UI.Page.OnFormRender()
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+[HttpUnhandledException]: Exception of type &#39;System.Web.HttpUnhandledException&#39; was thrown.
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.reports_officersurf_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+--><!-- 
+This error page might contain sensitive information because ASP.NET is configured to show verbose error messages using &lt;customErrors mode="Off"/&gt;. Consider using &lt;customErrors mode="On"/&gt; or &lt;customErrors mode="RemoteOnly"/&gt; in production environments.-->
