@@ -17,3 +17,6 @@ I have also demonstrated the ability to build teams.
 At DIA's Office of Defense Technology and Long-Range Analysis in Charlottesville VA I served as a branch chief for 20(ish!!) acquisition intelligence analysts. I rebuilt the branch after COVID, where we were sent home for 6 months and saw XX%!! turnover. I also reversed a years-long decline in office culture that saw enormous distrust develop between military and civilian analysts. 
 
 Most recently, I spent 5 months as an acting Commander in USAFA Cadet Group 4 while two Commanders were on extended leave. 
+… !!
+
+Service academies are America's premier commissioning source, and I have seen first-hand the importance of the excellent education and opportunities they provide. USNA lifted my wife's grandfather from a life of poverty and prepared him for medical school and a lifetime of service to his community as a doctor. In addition to a generally excellent education, USAFA is home to America's premiere Astronautical Engineering program, which teaches advanced engineering classes, but also prepares every USAFA graduate to understand a complex domain if they unexpectedly find that they have become leaders in charge of space activities, like me. 
