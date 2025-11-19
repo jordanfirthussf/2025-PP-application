@@ -1,6 +1,28 @@
 Col Cooper, 
 
-Thank you for considering my application to be USAFA's next Permanent Professor of Astronautics. I have spent a career building hands-on engineering skills, cultivating a passion for education in myself and others, and preparing leaders for the future. Together, I believe these skills and experiences make me uniquely qualified for the position. 
+Thank you for considering my application to be USAFA's next Permanent Professor of Astronautics. I have spent a career building hands-on engineering skills, cultivating a passion for education in myself and others, and preparing leaders for the future. Together, I believe these skills and experiences make me uniquely qualified for the position.
+
+
+
+This position falls in the exact intersection of my personal passions: space, education, and officer development. 
+
+
+
+I love space for the creative opportunities it brings for military and commercial development. The explosive growth of the space sector during my career has made space activity vital to American interests. As Space Force grows to protect those interests, USAFA's Permanent Professor of Astronautics fills a vital role guiding the development of a healthy and mutually beneficial relationship between USAFA and Space Force. 
+
+
+
+The Permanent Professor of Astronautics also ensures the continued excellence and relevance of USAFA's curriculum. This applies both generally to the entire educational program (together with other Permanent Professors), and specifically to Astronautics. The Astro PP must ensure that core Astro meets the needs of USAFA and the Space Force, and ensure that the entirety of the Astro curriculum maintains the highest standards of academic preparation for majors and accreditation. 
+
+I have already done this. When the Engineering Division's external review board identified a Division-wide shortfall in technical communication instruction, I developed a multi-department course combining technical communication with foundational engineering skills. After an experimental offering, the course appears to be on track for Fall 2026 inclusion in USAFA's COI as a requirement for two academic majors. 
+
+The Permanent Professor must ensure USAFA's domain-specific institutional credibility and capability. As Department Head, this includes cultivating a pipeline of interested and qualified officers to serve as faculty throughout their careers, as well as maintaining an environment people want to work in.  Beyond the Department, Permanent Professors fill organizational roles to ensure the institution functions smoothly to graduate the right officers and guide cadet development prepare them with the skills and experience they need for career success. 
+
+
+
+
+
+
 
 I have taught engineering at USAFA for 5 years, covering a range of foundational and advanced classes in both the Astronautical and Mechanical Engineering Departments. During my second assignment, I have been able to significantly update the curricula for two courses to keep up with advances in engineering and ensure our graduates are prepared to work in a modern engineering environment. 
 
